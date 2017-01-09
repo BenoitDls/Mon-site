@@ -1,0 +1,34 @@
+body {
+    background-image:url(../images/background.png);
+    background-repeat: repeat;
+}
+
+#top{
+    background: url("../images/top.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+#box{
+    padding-bottom: 40px;
+    margin-bottom: 14px;
+}
+
+#header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#envoyer {
+    margin-top: 25px;
+}
+
+#lien {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#lien2 {
+    text-decoration: none;
+    color: #000000;
+}
